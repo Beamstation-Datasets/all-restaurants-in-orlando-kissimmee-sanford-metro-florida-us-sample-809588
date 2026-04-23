@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a40c3b61-cd69-458d-889b-61e5e488b3f3",
+  "export_job_id": "ff8f6d67-bcbd-4b9d-8015-831edbe52473",
   "id_short": 809588,
-  "published_at": "2026-04-19T19:40:44Z",
+  "published_at": "2026-04-23T19:49:37Z",
   "repo_name": "all-restaurants-in-orlando-kissimmee-sanford-metro-florida-us-sample-809588",
   "sample_asset_name": "beamstation_809588_restaurants-us-orlandokissimmeesanfordfl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/809588/beamstation_809588_restaurants-us-orlandokissimmeesanfordfl_SAMPLE_DIST.csv",
-  "sample_records": 666,
-  "sample_sha256": "f2ba0776e3c2488332f854cd1322b0bf41c9cb3fcdf55c6f9664c1d1cb9cd25e",
-  "sample_size_bytes": 2369626,
-  "total_records": 6661
+  "sample_records": 467,
+  "sample_sha256": "e7589687dd0593509ed97633e4096cdffddeb552a15917987ed3bdd8475d2cb4",
+  "sample_size_bytes": 1682931,
+  "total_records": 4676
 }
