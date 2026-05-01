@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete restaurant data for the Orlando-Kissimmee-Sanford metro in Central Florida. Captures one of the nation's top tourism-driven dining markets, filtered by the Restaurants category group. Features business profiles, review trends, competitive metrics, and contact data. Refreshed weekly.",
   "config_name": "All Restaurants in Orlando-Kissimmee-Sanford (Metro), Florida, US",
-  "export_job_id": "ff8f6d67-bcbd-4b9d-8015-831edbe52473",
+  "export_job_id": "fd8f1de6-ff0b-4a3f-97d1-963a015f71e3",
   "github_org": "Beamstation-Datasets",
   "id_short": 809588,
   "location_name": "Orlando-Kissimmee-Sanford, FL",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-orlando-kissimmee-sanford-metro-florida-us-sample-809588",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/809588/beamstation_809588_restaurants-us-orlandokissimmeesanfordfl_SAMPLE_DIST.csv",
   "sample_pct": 9.99,
-  "sample_records": 467,
-  "sample_sha256": "e7589687dd0593509ed97633e4096cdffddeb552a15917987ed3bdd8475d2cb4",
-  "sample_size_bytes": 1682931,
-  "total_records": 4676,
-  "updated_at": "2026-04-23T17:54:36.269731+00:00"
+  "sample_records": 693,
+  "sample_sha256": "d8ea8665e9372870dea52ac2c938e0a0d4bd518a13bcd15b27e1ed39bd93048c",
+  "sample_size_bytes": 2425941,
+  "total_records": 6937,
+  "updated_at": "2026-05-01T06:44:12.515186+00:00"
 }
