@@ -1,6 +1,6 @@
 # All Restaurants in Orlando-Kissimmee-Sanford (Metro), Florida, US
 
-> Free BeamStation sample export with 467 rows and masked direct-contact fields.
+> Free BeamStation sample export with 693 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `809588` |
 | Location | Orlando-Kissimmee-Sanford, FL |
 | Category | Restaurants |
-| Full dataset size | 4,676 records |
-| Free sample size | 467 records (9.99%) |
-| Last export | 2026-04-23T17:54:36.269731+00:00 |
+| Full dataset size | 6,937 records |
+| Free sample size | 693 records (9.99%) |
+| Last export | 2026-05-01T06:44:12.515186+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-orlando-kissimmee-sanford-metro-florida-us-sample-809588/releases/download/sample-latest/beamstation_809588_restaurants-us-orlandokissimmeesanfordfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
